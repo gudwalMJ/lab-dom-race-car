@@ -1,3 +1,4 @@
+/* MAT
 class Obstacle {
     constructor(gameScreen) {
       this.gameScreen = gameScreen
@@ -29,4 +30,4 @@ class Obstacle {
       this.element.style.top = `${this.top}px`
     }
   }
-  
+  */
